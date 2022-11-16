@@ -4,4 +4,4 @@
   
  ### Первый семестр 
   
-[Кейс 1](Programming/Pogoda_final)
+[Кейс 1](./Pogoda_final)
