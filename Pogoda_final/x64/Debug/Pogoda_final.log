@@ -1,0 +1,6 @@
+﻿  Pogoda_final.cpp
+E:\Timur\WOrk\Pogoda_final\Pogoda_final.cpp(92,63): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Timur\WOrk\Pogoda_final\Pogoda_final.cpp(94,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Timur\WOrk\Pogoda_final\Pogoda_final.cpp(96,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Timur\WOrk\Pogoda_final\Pogoda_final.cpp(98,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Pogoda_final.vcxproj -> E:\Timur\WOrk\Pogoda_final\x64\Debug\Pogoda_final.exe
